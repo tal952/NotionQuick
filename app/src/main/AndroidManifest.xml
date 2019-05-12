@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="tal952.notionquick">
+    package="tal952.notionquick"
+    android:versionCode="1"
+    android:versionName="@string/app_name">
 
     <application
         android:allowBackup="true"
