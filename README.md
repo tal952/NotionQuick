@@ -4,7 +4,7 @@ Add tasks quickly to Notion in android.
 ![](https://media.giphy.com/media/3bbb9R5PkHQk4JAudL/giphy.gif)
 
 # Apk
-https://raw.githubusercontent.com/tal952/NotionQuick/master/apks/NotionQuick.v1.apk
+https://raw.githubusercontent.com/tal952/NotionQuick/master/apks/NotionQuick.v1.1.apk
 
 # How it works
 Notion has a web clipboard capabilities.
