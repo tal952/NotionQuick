@@ -12,5 +12,5 @@ Unlike the app (that takes about 4 seconds to open), the web clipboard activity 
 The app just shares the URL: http://about:blank/ with the app, and give you to set the title.
 
 # Troubleshoot
-If you got the message: "app not installed", try this: 
-https://stackoverflow.com/a/53074093/1456487
+If you got the message: "app not installed", try to disable Play Protect, Install the app and then enable it again: 
+https://support.hoverwatch.com/hc/en-us/articles/360000147505-How-to-disable-Play-Protect-Google-service-?fbclid=IwAR3PWjHuFrUwmFbI0Cqfam1BUDVNZV1SEiMnO6aCZejjpbzYbV3oBD8ED98
