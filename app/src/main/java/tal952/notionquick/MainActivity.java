@@ -11,9 +11,9 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
 
         Intent sharingIntent = new Intent(Intent.ACTION_SEND);
-        sharingIntent.setClassName("notion.id", "notion.local.id.ShareActivity");
+        sharingIntent.setClassName("notion.id", "notion.local.id.externalsharing.ExternalSharingActivity");
         sharingIntent.setType("text/plain");
-        sharingIntent.putExtra(Intent.EXTRA_TEXT, "http://about:blank/");
+        sharingIntent.putExtra(Intent.EXTRA_TEXT, "https://tal952.github.io/NotionQuick/");
 
         startActivity(sharingIntent);
         finish();
