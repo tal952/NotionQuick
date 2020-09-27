@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/NotionQuick.iml" filepath="$PROJECT_DIR$/NotionQuick.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/NotionQuick-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/NotionQuick-app.iml" group="NotionQuick/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Repositories-NotionQuick.iml" filepath="$PROJECT_DIR$/.idea/modules/Repositories-NotionQuick.iml" group="NotionQuick" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
